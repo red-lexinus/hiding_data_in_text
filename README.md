@@ -1,1 +1,1 @@
-# hiding_data_in_text
+# steganography-in-text
